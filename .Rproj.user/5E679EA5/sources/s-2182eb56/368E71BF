@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579045846180.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4033190115",
+    "id" : "368E71BF",
+    "lastKnownWriteTime" : 1579047769,
+    "last_content_update" : 1579047769638,
+    "path" : "~/Stat 210/Intro Class/intro-r.Rmd",
+    "project_path" : "Intro Class/intro-r.Rmd",
+    "properties" : {
+        "cursorPosition" : "461,14",
+        "scrollLine" : "455"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

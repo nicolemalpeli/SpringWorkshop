@@ -1,0 +1,2 @@
+"0","ggplot(data = diamonds, aes(x = table, y = total)) +"
+"0","  geom_line()"

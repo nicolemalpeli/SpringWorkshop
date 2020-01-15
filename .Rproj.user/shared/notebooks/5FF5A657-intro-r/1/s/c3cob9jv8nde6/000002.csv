@@ -1,0 +1,2 @@
+"0","diamonds <- diamonds %>%"
+"0","  mutate(total = x + y + z)"

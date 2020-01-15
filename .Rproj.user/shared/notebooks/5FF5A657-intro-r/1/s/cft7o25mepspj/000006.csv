@@ -1,0 +1,2 @@
+"0","ggplot(data = diamonds, aes(x = carat, y = price, color = clarity)) +"
+"0","  geom_point() + geom_smooth()"
